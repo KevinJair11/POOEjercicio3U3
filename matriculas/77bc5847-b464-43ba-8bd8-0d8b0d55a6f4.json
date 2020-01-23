@@ -1,0 +1,61 @@
+{
+  "numero": "77bc5847-b464-43ba-8bd8-0d8b0d55a6f4",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 20,
+    "hourOfDay": 11,
+    "minute": 9,
+    "second": 47
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Kevin",
+    "apellido": "Chuquitarco",
+    "cedula": "0550111595"
+  },
+  "curso": {
+    "titulo": "Fundamentos de programacion",
+    "costo": 100.0,
+    "descripcion": "Algoritmos"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 11,
+        "minute": 10,
+        "second": 8
+      },
+      "valor": 1.03,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 11,
+        "minute": 10,
+        "second": 17
+      },
+      "valor": 20.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 11,
+        "minute": 10,
+        "second": 24
+      },
+      "valor": 20.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 13.676666
+}

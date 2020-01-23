@@ -1,0 +1,61 @@
+{
+  "numero": "a7b388bc-5e20-461f-aca7-b782a2466fe2",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 44,
+    "second": 13
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Jair",
+    "apellido": "Velasco",
+    "cedula": "055011595"
+  },
+  "curso": {
+    "titulo": "Algebra Lineal",
+    "costo": 150.0,
+    "descripcion": "Espacios Vectoriales"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 44,
+        "second": 52
+      },
+      "valor": 20.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 44,
+        "second": 56
+      },
+      "valor": 14.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 45,
+        "second": 0
+      },
+      "valor": 11.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 15.0
+}

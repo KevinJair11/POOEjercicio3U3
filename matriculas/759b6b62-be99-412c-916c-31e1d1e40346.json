@@ -1,0 +1,61 @@
+{
+  "numero": "759b6b62-be99-412c-916c-31e1d1e40346",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 19,
+    "second": 35
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Liliana",
+    "apellido": "Almendariz",
+    "cedula": "0546545464"
+  },
+  "curso": {
+    "titulo": "Algebra Lineal",
+    "costo": 150.0,
+    "descripcion": "Espacios Vectoriales"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 20,
+        "second": 26
+      },
+      "valor": 20.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 20,
+        "second": 29
+      },
+      "valor": 15.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 20,
+        "second": 33
+      },
+      "valor": 18.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 17.666666
+}

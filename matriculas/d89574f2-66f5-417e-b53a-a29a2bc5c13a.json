@@ -1,0 +1,61 @@
+{
+  "numero": "d89574f2-66f5-417e-b53a-a29a2bc5c13a",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 56,
+    "second": 39
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Alex",
+    "apellido": "Pachacama",
+    "cedula": "0652164898456"
+  },
+  "curso": {
+    "titulo": "Física Clasica",
+    "costo": 300.0,
+    "descripcion": "Segunda ley de Newton"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 57,
+        "second": 1
+      },
+      "valor": 18.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 57,
+        "second": 12
+      },
+      "valor": 11.36,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 57,
+        "second": 23
+      },
+      "valor": 12.18,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 13.846667
+}

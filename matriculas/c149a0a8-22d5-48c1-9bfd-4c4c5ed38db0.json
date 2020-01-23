@@ -1,0 +1,61 @@
+{
+  "numero": "c149a0a8-22d5-48c1-9bfd-4c4c5ed38db0",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 7,
+    "second": 9
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Antony",
+    "apellido": "Velasco",
+    "cedula": "0546523216"
+  },
+  "curso": {
+    "titulo": "Cultura Ambiental",
+    "costo": 100.0,
+    "descripcion": "Desarrollo Sostenible"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 9,
+        "second": 13
+      },
+      "valor": 20.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 9,
+        "second": 19
+      },
+      "valor": 14.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 9,
+        "second": 24
+      },
+      "valor": 8.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.0
+}

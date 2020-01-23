@@ -1,0 +1,61 @@
+{
+  "numero": "c8e48be9-5345-480a-8568-fe0f61201f24",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 47,
+    "second": 32
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Edward",
+    "apellido": "Guallichico",
+    "cedula": "05465405646"
+  },
+  "curso": {
+    "titulo": "Cálculo Diferencial e Integral",
+    "costo": 300.0,
+    "descripcion": "Derivadas e Integrales"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 47,
+        "second": 50
+      },
+      "valor": 14.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 47,
+        "second": 56
+      },
+      "valor": 16.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 48,
+        "second": 1
+      },
+      "valor": 14.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.666667
+}

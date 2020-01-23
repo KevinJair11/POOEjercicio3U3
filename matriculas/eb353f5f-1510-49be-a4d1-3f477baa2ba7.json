@@ -1,0 +1,61 @@
+{
+  "numero": "eb353f5f-1510-49be-a4d1-3f477baa2ba7",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 13,
+    "second": 36
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Javier",
+    "apellido": "Velasco",
+    "cedula": "015651684"
+  },
+  "curso": {
+    "titulo": "Fundamentos de programacion",
+    "costo": 100.0,
+    "descripcion": "Algoritmos"
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 14,
+        "second": 12
+      },
+      "valor": 15.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 14,
+        "second": 18
+      },
+      "valor": 12.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 14,
+        "second": 23
+      },
+      "valor": 14.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 13.666667
+}

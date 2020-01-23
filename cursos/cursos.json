@@ -1,0 +1,8 @@
+[
+{"titulo": "Fundamentos de programacion","descripcion": "Algoritmos","costo": 100.0},
+{"titulo": "Algebra Lineal","descripcion":"Espacios Vectoriales","costo":150.0},
+{"titulo": "Cálculo Diferencial e Integral","descripcion":"Derivadas e Integrales","costo":300.0},
+{"titulo": "Física Clasica","descripcion":"Segunda ley de Newton","costo":300.0},
+{"titulo": "Cultura Ambiental","descripcion":"Desarrollo Sostenible","costo":100.0}
+]
+

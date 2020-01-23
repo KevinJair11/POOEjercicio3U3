@@ -1,0 +1,76 @@
+[
+  {
+    "carrera": "Ingeniería en Software",
+    "clubes": [],
+    "nombre": "Kevin",
+    "apellido": "Chuquitarco",
+    "cedula": "0550111595"
+  },
+  {
+    "carrera": "Ingeniería en Software",
+    "clubes": [],
+    "nombre": "kevin",
+    "apellido": "velasco",
+    "cedula": "0550111595"
+  },
+  {
+    "carrera": "Ingeniería Mecatónica",
+    "clubes": [
+      "Club de ajedrez",
+      "Club de deportes",
+      "Club de tenis"
+    ],
+    "nombre": "Jair",
+    "apellido": "Velasco",
+    "cedula": "055011595"
+  },
+  {
+    "carrera": "Ingeniería en Software",
+    "clubes": [
+      "Club de artes",
+      "Club de música"
+    ],
+    "nombre": "Edward",
+    "apellido": "Guallichico",
+    "cedula": "05465405646"
+  },
+  {
+    "carrera": "Ingeniería en Software",
+    "clubes": [
+      "Club de danza",
+      "Club de deportes"
+    ],
+    "nombre": "Alex",
+    "apellido": "Pachacama",
+    "cedula": "0652164898456"
+  },
+  {
+    "carrera": "Ingeniería Bioquímica",
+    "clubes": [
+      "Club de artes",
+      "Club de danza",
+      "Club de música"
+    ],
+    "nombre": "Antony",
+    "apellido": "Velasco",
+    "cedula": "0546523216"
+  },
+  {
+    "carrera": "Ingeniería Electrónica",
+    "clubes": [
+      "Club de ajedrez"
+    ],
+    "nombre": "Javier",
+    "apellido": "Velasco",
+    "cedula": "015651684"
+  },
+  {
+    "carrera": "Ingeniería Mecatónica",
+    "clubes": [
+      "Club de tenis"
+    ],
+    "nombre": "Liliana",
+    "apellido": "Almendariz",
+    "cedula": "0546545464"
+  }
+]
